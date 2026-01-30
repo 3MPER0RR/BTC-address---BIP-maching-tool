@@ -68,7 +68,7 @@ fn derive_address(
 }
 
 fn main() -> Result<()> {
-    println!("=== BTC Assist – Recovery Engine (beta) ===\n");
+    println!("=== BTC Address – BIP maching tool (beta) ===\n");
 
     let mnemonic_str = get_user_input("Mnemonic BIP39: ");
     let passphrase = get_user_input("Passphrase (seed extension, invio se vuota): ");
