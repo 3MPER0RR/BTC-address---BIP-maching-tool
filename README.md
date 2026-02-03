@@ -1,13 +1,13 @@
-# BTC address BIP maching tool
+# BTC address BIP matching tool
 
 ## build 
-cd btc address BIP maching tool
+cd btc address BIP matching tool
 cargo build 
 cargo run
 
 ## usage
 
-cd btc address BIP maching tool
+cd btc address BIP matching tool
 cargo run
 
 When prompted:
